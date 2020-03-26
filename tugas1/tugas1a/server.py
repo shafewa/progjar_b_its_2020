@@ -17,11 +17,11 @@ while True:
     print("connection from", client_address)
     # Receive the data in small chunks and retransmit it
     while True:
-        data = connection.recv(1024)
+        data = connection.recv(100000)
         fileakhir = open("logo" +".png", 'a+b')
         if not data:
             fileakhir.close()
             break
             fileakhir.write(data)
             # Clean up the connection
-	connection.close()
+        connection.close()
