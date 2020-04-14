@@ -7,8 +7,9 @@ Tugas 6
 ![Screenshot (120)](https://user-images.githubusercontent.com/47876619/79105400-c9a9b780-7d9a-11ea-8579-61af38b7cbd4.png)
   
   Respon server
-![Screenshot (121)](https://user-images.githubusercontent.com/47876619/79248268-cea75d80-7ea5-11ea-97dd-90ae01e2a8ab.png)
+![Screenshot (117)](https://user-images.githubusercontent.com/47876619/79248581-33fb4e80-7ea6-11ea-966c-b0ca25625429.png)
 
-  
+
   View developer tools pada network
-![Screenshot (116)](https://user-images.githubusercontent.com/47876619/79105529-0b3a6280-7d9b-11ea-8b59-15c62192ed43.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/47876619/79248623-41183d80-7ea6-11ea-97e0-2bfd552e98a0.png)
+
